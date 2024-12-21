@@ -22,8 +22,8 @@ This project is a basic WebRTC application with a client and server implemented 
     mkcert create-cert
     nodemon server.js
 
-JUST TYPE   https://localhost:5000 onthe browser 
-            or if u want to ty using other device "https://YOUR_LOCAL_IP:5000"
+JUST TYPE   https://localhost:8181 onthe browser 
+            or if u want to ty using other device "https://YOUR_LOCAL_IP:8181"
             make sure you use seperated browsers for multiple casting 
     
 
