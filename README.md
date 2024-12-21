@@ -23,7 +23,7 @@ This project is a basic WebRTC application with a client and server implemented 
     nodemon server.js
 
 JUST TYPE   https://localhost:5000 onthe browser 
-            or if u want to ty using other device "https://YOUR LOCAL IP:5000"
+            or if u want to ty using other device "https://YOUR_LOCAL_IP:5000"
             make sure you use seperated browsers for multiple casting 
     
 
