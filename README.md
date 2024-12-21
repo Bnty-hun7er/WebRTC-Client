@@ -12,7 +12,7 @@ This project is a basic WebRTC application with a client and server implemented 
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Bnty-hun7er/WebRTC-Client.git>
    cd <repository-folder>
     npm install
     npm install express
